@@ -1,5 +1,5 @@
 /*
-Assignment 3: You’re required to animate a man throwing a ball at a wall.
+Assignment 3: Youâ€™re required to animate a man throwing a ball at a wall.
 Scenario: The man rotates/swings his arm and throws the ball. The ball hits the wall and bounces off, to
 hit the ground. Try to make the ball motion look as real as possible. (hint: see projectile motion)
 
@@ -7,7 +7,7 @@ hit the ground. Try to make the ball motion look as real as possible. (hint: see
 - Draw a ground and a wall.
 - The animation should start/stop as the user presses space bar. If the animation ends, pressing space
 bar should be able to replay it.
-- The whole scene including the man’s body should be proportional.
+- The whole scene including the manâ€™s body should be proportional.
 - The user should be able to rotate the scene in different directions using x,X,y,Y,z,Z
 
 Bonus: Animating the ball bouncing a few times after falling on the ground, to make it look more realistic.
